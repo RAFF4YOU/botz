@@ -1,1 +1,1 @@
-worker: npm i -g pm2 && pm2 start haruka.js && pm2 save && pm2 monit
+worker: node. --db 'mongodb+srv://raffastore:l5DpOHQ4BJAEAG5i@cluster0.7c381e8.mongodb.net/?retryWrites=true&w=majority'
